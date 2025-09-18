@@ -1,0 +1,52 @@
+{
+    "animais": [
+      {
+        "id": "animal-1",
+        "tipo": "animal",
+        "nome": "Leão",
+        "especie": "Panthera leo",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Lion_waiting_in_Namibia.jpg/800px-Lion_waiting_in_Namibia.jpg"
+      },
+      {
+        "id": "animal-2",
+        "tipo": "animal",
+        "nome": "Elefante",
+        "especie": "Loxodonta africana",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Elephant_Diversity.jpg/800px-Elephant_Diversity.jpg"
+      }
+    ],
+    "livros": [
+      {
+        "id": "livro-1",
+        "tipo": "livro",
+        "titulo": "O Senhor dos Anéis",
+        "autor": "J.R.R. Tolkien",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/8/8b/O_senhor_dos_an%C3%A9is-_a_sociedade_do_anel_1994.gif?20170210155939"
+      },
+      {
+        "id": "livro-2",
+        "tipo": "livro",
+        "titulo": "Duna",
+        "autor": "Frank Herbert",
+        "imagem": "https://m.media-amazon.com/images/I/91iLyWRwmRL._SY342_.jpg"
+      }
+    ],
+    "pessoas": [
+      {
+        "id": "pessoa-1",
+        "tipo": "pessoa",
+        "nome": "Marie Curie",
+        "idade": 66,
+        "profissao": "Cientista",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Marie_Curie_c._1920s.jpg/800px-Marie_Curie_c._1920s.jpg"
+      },
+      {
+        "id": "pessoa-2",
+        "tipo": "pessoa",
+        "nome": "Albert Einstein",
+        "idade": 76,
+        "profissao": "Físico",
+        "imagem": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Albert_Einstein_Head.jpg/800px-Albert_Einstein_Head.jpg"
+      }
+    ]
+  }
